@@ -1,0 +1,2 @@
+What is merge command?
+ git merge : join one or more development histories together
